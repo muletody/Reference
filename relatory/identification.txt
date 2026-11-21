@@ -1,0 +1,10 @@
+Endereço da chamada | Função     | Identificação
+_______________________________________________________________
+0x725A99            | sub_725550 | eSpriteManagerPC::Draw(...)
+0x754BD8            | sub_754B20 | eShadowMapMesh::Render(...)
+0x75797F            | sub_7578A0 | XSpriteList::Draw(...)
+0x757A71            | sub_757990 | Pendente
+0x757BDA            | sub_757AC0 | Pendente
+0x75E8F7            | sub_75E690 | Pendente
+0x75EB13            | sub_75E960 | eDataRender::InstanceRender(...)
+0x7690E4            | sub_768C60 | Pendente

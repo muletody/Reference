@@ -1,0 +1,12 @@
+Sistema     | Necessidade
+____________________________________________________
+CPU         | Recompilar código x86 para ARM64
+Windows API | Camada de compatibilidade Win32
+TLS         | Emulação do acesso TLS do Windows
+SEH         | Tratamento de exceções compatível
+Gráficos    | Substituir Direct3D 9 por backend compatível
+Vulkan      | Reproduzir o pipeline gráfico D3D9
+Áudio       | Substituir DirectSound/WINMM conforme necessário
+Entrada     | Adaptar DirectInput/XInput para Android
+Arquivos    | Adaptar caminhos e operações de arquivos
+Threads     | Compatibilidade com sincronização e ciclo de vida Android

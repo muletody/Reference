@@ -1,0 +1,13 @@
+KERNEL32.dll
+USER32.dll
+d3d9.dll
+d3dx9_34.dll
+DINPUT8.dll
+XINPUT1_3.dll
+DSOUND.dll
+WINMM.dll
+WS2_32.dll
+MSVCR80.dll
+MSVCP80.dll
+ADVAPI32.dll
+OLE32.dll

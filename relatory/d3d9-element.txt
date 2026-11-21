@@ -1,0 +1,7 @@
+Elemento                 | Tamanho/valor    | Contexto
+___________________________________________________________
+Vertex stride            | 0x34 (52 bytes)  | sub_7578A0
+Buffer de processamento  | 0xD0 (208 bytes) | sub_7578A0
+Tamanho condicional 0x30 | 0x30 (48 bytes)  | sub_733820
+Tamanho condicional 0x50 | 0x50 (80 bytes)  | sub_733820
+Cache de stream          | 12 bytes/entrada | sub_71B640

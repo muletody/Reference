@@ -1,0 +1,11 @@
+Endereço | Função     | Descoberta
+_____________________________________________________
+0x686230 | sub_686230 | Rotina compartilhada de renderização; shaders e desenho indexado
+0x71B640 | sub_71B640 | Cache de estado de SetStreamSource
+0x7191F0 | sub_7191F0 | Construtor de Dynometer; registro de interfaces
+0x725550 | sub_725550 | Preparação de geometria, SetIndices, SetStreamSource
+0x732FA0 | sub_732FA0 | Manipulação de lista encadeada e provável object pool
+0x733820 | sub_733820 | Configuração de frequência de streams e instancing
+0x754B20 | sub_754B20 | Renderização de Shadow Map
+0x7578A0 | sub_7578A0 | Renderização de XSpriteList
+0x75E960 | sub_75E960 | eDataRender::InstanceRender

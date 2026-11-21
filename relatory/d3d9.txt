@@ -1,0 +1,9 @@
+Índice da vtable | Offset | Método
+____________________________________________________
+82               | 0x148  | DrawIndexedPrimitive
+87               | 0x15C  | SetVertexDeclaration
+94               | 0x178  | SetVertexShaderConstantF
+100              | 0x190  | SetStreamSource
+102              | 0x198  | SetStreamSourceFreq
+104              | 0x1A0  | SetIndices
+109              | 0x1B4  | SetPixelShaderConstantF

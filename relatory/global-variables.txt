@@ -1,0 +1,8 @@
+Endereço    | Identificação
+_____________________________________________________
+unk_13B3190 | Ponteiro global IDirect3DDevice9*
+unk_13B3164 | Gerenciador global de subsistemas
+unk_178BF5C | Estrutura global de recursos/tabelas
+unk_CD7F7C  | Estado em cache associado a índices
+unk_12FE7F0 | Área de cache de SetStreamSource
+unk_12FE9C0 | Estado em cache de declaração de vértices

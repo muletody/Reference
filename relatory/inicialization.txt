@@ -1,0 +1,9 @@
+Endereço | Função     | Identificação
+_____________________________________________________
+0x770040 | sub_770040 | Entrada principal (main)
+0x76C5B0 | sub_76C5B0 | Inicialização e controle de instância única
+0x693AF0 | sub_693AF0 | Loop principal do jogo
+0x693720 | sub_693720 | Inicialização geral dos subsistemas
+0x72E510 | sub_72E510 | Registro de janela e criação do Direct3D
+0x7251D0 | sub_7251D0 | Criação do dispositivo D3D9
+0x722E40 | sub_722E40 | Configuração de apresentação D3D9

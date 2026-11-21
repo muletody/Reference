@@ -1,0 +1,14 @@
+Propriedade | Valor
+_____________________________
+Arquivo     | NFS.exe
+Formato     | PE32
+Arquitetura | x86
+ImageBase   | 0x400000
+Entry Point | 0x87BA75
+Tamanho     | 21,4 MB
+Seções      | 6 no resumo PE
+Funções     | 48 mil
+Classes     | RTTI 2.291
+Imports     | 436
+Exports     | 1
+Debug Info  | Ausente

@@ -1,0 +1,12 @@
+Área                 | Situação
+___________________________________________________
+Análise PE           | Avançada
+Inicialização        | Parcialmente mapeada
+Loop principal       | Identificado
+Renderização D3D9    | Em investigação
+Subsistemas gráficos | Parcialmente identificados
+APIs Windows         | Mapeamento pendente
+Runtime ARM64        | Não implementado
+Backend Vulkan       | Não implementado
+Integração Android   | Não implementada
+Execução do jogo     | Ainda não iniciada no Android
